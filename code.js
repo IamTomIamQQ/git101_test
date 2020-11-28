@@ -1,5 +1,5 @@
-ＦＩＲＳＴＬＩＮＥ
+ＦＩＲＳＴＬＩＮ
 ＴＨＩＲＤ
 ４ｔｈ　ｌｉｎｅ
 AM的測試
-IN new-feature
+MASTER is BACK
