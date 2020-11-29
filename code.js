@@ -1,7 +1,3 @@
-ＦＩＲＳＴＬＩＮ
-ＴＨＩＲＤ
-４ｔｈ　ｌｉｎｅ
-AM的測試
-
+ Finally GITHUB  
 MASTER is BACK & IN new-featureＣＯＮＦＬＩＣＴ
 
